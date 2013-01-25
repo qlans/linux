@@ -1,0 +1,11 @@
+syntax enable
+syntax on
+colorscheme desert
+set nu
+set cursorline
+set backspace=2
+set tabstop=4
+set showmatch
+set ai!
+set autoindent
+set shifwidth=4
